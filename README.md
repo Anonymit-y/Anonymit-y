@@ -1,4 +1,4 @@
-# 🎓 BEng Computer Engineer (in Progress) | 💡 IoT/Embedded Systems Engineer | 📊 Data Engineering Contractor 
+### 🎓 BEng Computer Engineer (in Progress) | 💡 IoT/Embedded Systems Engineer | 📊 Data Engineering Contractor 
 
 ### Hi there Stranger, this is my personal github account so the majority of my work is private but I hope some of my public repos may be of use!
 
